@@ -1,9 +1,9 @@
 body {
 	padding-top: 50px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Open-sans', sans-serif;
 }
 .jumbotron {
-	background: url("https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg?h=350&auto=compress&cs=tinysrgb");
+	background-image: url(https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg?h=350&auto=compress&cs=tinysrgb);
 }
 .container .media {
 	padding: 50px;
